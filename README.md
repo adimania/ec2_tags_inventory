@@ -13,6 +13,5 @@ $ chmod 755 ec2_tags_inventory.py
 Copy the ec2.ini.sample to ec2.ini and put the AWS access key and secret and use it in place of Ansible inventory file.
 
 ### To Do
-- implement pagination.
 - make the key "ansible_role" customizable.
 - make the delimiter customizable. 
